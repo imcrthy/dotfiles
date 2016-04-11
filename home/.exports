@@ -1,0 +1,6 @@
+
+# Make vim the default editor.
+export EDITOR='vim';
+
+export NVM_DIR="/Users/ivanmccarthy/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm

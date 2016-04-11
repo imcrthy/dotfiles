@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/ivanmccarthy/SwipeSense/web_frontend/server'
+let g:netrw_dirhist_2='/Users/ivanmccarthy/SwipeSense/web_frontend/server/api'
+let g:netrw_dirhist_3='/Users/ivanmccarthy/SwipeSense/web_frontend/server/api/db'
+let g:netrw_dirhist_4='/Users/ivanmccarthy/SwipeSense/web_frontend/server'
+let g:netrw_dirhist_5='/Users/ivanmccarthy/SwipeSense/web_frontend/server/api'
+let g:netrw_dirhist_6='/Users/ivanmccarthy/SwipeSense/web_frontend/server/api/db'
+let g:netrw_dirhist_7='/Users/ivanmccarthy/SwipeSense/web_frontend/server'

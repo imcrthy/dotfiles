@@ -1,0 +1,15 @@
+
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias .....="cd ../../../.."
+alias -- -="cd -"
+
+
+
+alias ls="ls --color=always"
+alias lsa="ls -a --color=always"
+
+alias rmd="rm -fr"
+
+alias git=hub
